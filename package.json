@@ -1,0 +1,19 @@
+{
+  "name": "gca",
+  "version": "1.0.0",
+  "description": "Guard Commander's Aide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deathfreeze/GCA.git"
+  },
+  "author": "Aaron Charles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deathfreeze/GCA/issues"
+  },
+  "homepage": "https://github.com/Deathfreeze/GCA#readme"
+}
