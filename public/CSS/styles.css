@@ -245,12 +245,12 @@ button {
     position: absolute;
     width: 144px;
     height: 50px;
-    left: 50px;
+    left: 40px;
     top: 70px;
     font-family: Old Standard TT;
     font-style: normal;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 15px;
     line-height: 25px;
     text-align: center;
     color: #FFFFFF;
@@ -269,4 +269,15 @@ button {
     text-align: center;
     color: #F7FC0E;
     border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+#divider {
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    left: 200px;
+    top: 257px;
+
+    border: 1px solid #FFFFFF;
+    transform: rotate(-180deg);
 }

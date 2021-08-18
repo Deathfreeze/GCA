@@ -67,7 +67,6 @@ app.get("/register", (req, res) => {
 });
 
 app.get("/secrets", (req, res) => {
-
     if (req.isAuthenticated()) {
         let fName = req.user.fName;
         let lName = req.user.lName;
